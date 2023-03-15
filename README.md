@@ -1,7 +1,12 @@
-👋🏽 Olá, pode me chamar de Pimenta!
-🎓 Cursando Ciência da Computação na PUCPR, com graduação prevista para 2022
-🌇 Curitibano
-📚 Fui aluno PIBIC em Mineração de Dados pela PUC e atualmente sou Engenheiro de Dados na MadeiraMadeira, ajudando na construção do Datalakehouse construindo Pipelines, ETLs e Dags para o Airflow, além de vários outros projetos.
-💻 Aspirante a Engenheiro ou Cientista de Dados
-🏔 Gosto de ver séries e ler livros 😁
-💪🏽 Pensamento Lógico, questionador, proativo, trabalho em equipe e disponibilidade para ajudar 
+### Bacharel em Ciências da Computação.
+### Fluente em Inglês e nivel avançado em Espanhol.
+### Certificação:
+- AWS Certified Cloud Practitioner
+
+### Experiência trabalhando com projeto de Engenharia de dados e Arquitetura de dados:
+- Experiência em Data Visualization (Metabase);
+- Experiência em implementar e melhorar o Data Lake na nuvem da AWS e GCP;
+- Experiência em criar ETLs orquestradas pelo Airflow;
+- Experiência em criar códigos implementando o Clean Code;
+- Experiência em construir pipelines de arquitetura de dados no ambiente Databricks com PySpark;
+- Conhecimento avançado e experiência em programação Python.
